@@ -1,0 +1,2 @@
+you want to go with Lestrade or on a cab/taxi ?
+or type 'Quit' to exit game 

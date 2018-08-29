@@ -1,0 +1,6 @@
+SHERLOCK : hello!
+LESTRADE : there is a murder of a TV host Connie Prince.
+SHERLOCK : I know.
+LESTRADE : You got a call again.
+SHERLOCK : Yes.
+LESTRADE : Then come fast to examine her body.

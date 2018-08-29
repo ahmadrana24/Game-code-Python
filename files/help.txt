@@ -1,0 +1,3 @@
+Hey!!! Player you are a famous detective and you have to solve some mysteries by
+by giving commands e.g enter'look around' command to get information about
+your surroundings and 'pick up' command to pick or collect something.
